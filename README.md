@@ -1,11 +1,31 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+![Exposer des metrics pour Node Exporter avec un script Python](./slides-export/1.png)
 
-To start the slide show:
+![Sommaire](./slides-export/2.png)
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
+![Introduction](./slides-export/3.png)
 
-Edit the [slides.md](./slides.md) to see the changes.
+![Prometheus](./slides-export/4.png)
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+![Prometheus](./slides-export/5.png)
+
+![Prometheus](./slides-export/6.png)
+
+![Prometheus](./slides-export/7.png)
+
+![Prometheus](./slides-export/8.png)
+
+![Exporters](./slides-export/9.png)
+
+![Exporters](./slides-export/10.png)
+
+![Grafana](./slides-export/11.png)
+
+![Grafana](./slides-export/12.png)
+
+![NodeExporter](./slides-export/13.png)
+
+![NodeExporter](./slides-export/14.png)
+
+![Demo création de metrics avec Python](./slides-export/15.png)
+
+![Conclusion](./slides-export/16.png)
