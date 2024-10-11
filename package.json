@@ -1,0 +1,21 @@
+{
+  "name": "meetup-python-prom",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.50.0-beta.3",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.10"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.47.2",
+    "prettier": "^3.3.3",
+    "prettier-plugin-slidev": "^1.0.5"
+  }
+}

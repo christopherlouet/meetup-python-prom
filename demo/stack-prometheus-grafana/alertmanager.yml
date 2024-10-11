@@ -1,0 +1,11 @@
+---
+global:
+  smtp_smarthost: 'localhost:25'
+  smtp_from: 'alertmanager@example.org'
+route:
+  receiver: default
+  # ...
+receivers:
+  - name: default
+    email_configs:
+      - to: root@demo.local

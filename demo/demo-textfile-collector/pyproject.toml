@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "demo-textfile-collector"
+version = "1.0.0"
+description = "demo textfile collector"
+authors = ["Christopher LOUËT"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+typer = {extras = ["all"], version = "^0.12.5"}
+lxml = "^5.3.0"
+pdoc = "^14.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

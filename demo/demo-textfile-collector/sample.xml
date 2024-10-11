@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf8'?>
+<store>
+    <orange id="1" operation="create" />
+    <orange id="1" operation="update"/>
+    <strawberry id="1" operation="create" />
+    <orange id="2" operation="create"/>
+    <strawberry id="1" operation="delete" />
+    <apple id="1" operation="create"/>
+</store>

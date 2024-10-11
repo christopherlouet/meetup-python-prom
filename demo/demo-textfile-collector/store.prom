@@ -1,0 +1,39 @@
+# HELP store_total_rows Total rows in store
+# TYPE store_total_rows gauge
+store_total_rows {path="/tmp/store.xml"} 6
+# HELP store_apple_total_rows apple rows in store
+# TYPE store_apple_total_rows gauge
+store_apple_total_rows {path="/tmp/store.xml"} 1
+# HELP store_apple_create_rows apple create rows in store
+# TYPE store_apple_create_rows gauge
+store_apple_create_rows {path="/tmp/store.xml"} 1
+# HELP store_apple_update_rows apple update rows in store
+# TYPE store_apple_update_rows gauge
+store_apple_update_rows {path="/tmp/store.xml"} 0
+# HELP store_apple_delete_rows apple delete rows in store
+# TYPE store_apple_delete_rows gauge
+store_apple_delete_rows {path="/tmp/store.xml"} 0
+# HELP store_orange_total_rows orange rows in store
+# TYPE store_orange_total_rows gauge
+store_orange_total_rows {path="/tmp/store.xml"} 3
+# HELP store_orange_create_rows orange create rows in store
+# TYPE store_orange_create_rows gauge
+store_orange_create_rows {path="/tmp/store.xml"} 2
+# HELP store_orange_update_rows orange update rows in store
+# TYPE store_orange_update_rows gauge
+store_orange_update_rows {path="/tmp/store.xml"} 1
+# HELP store_orange_delete_rows orange delete rows in store
+# TYPE store_orange_delete_rows gauge
+store_orange_delete_rows {path="/tmp/store.xml"} 0
+# HELP store_strawberry_total_rows strawberry rows in store
+# TYPE store_strawberry_total_rows gauge
+store_strawberry_total_rows {path="/tmp/store.xml"} 2
+# HELP store_strawberry_create_rows strawberry create rows in store
+# TYPE store_strawberry_create_rows gauge
+store_strawberry_create_rows {path="/tmp/store.xml"} 1
+# HELP store_strawberry_update_rows strawberry update rows in store
+# TYPE store_strawberry_update_rows gauge
+store_strawberry_update_rows {path="/tmp/store.xml"} 0
+# HELP store_strawberry_delete_rows strawberry delete rows in store
+# TYPE store_strawberry_delete_rows gauge
+store_strawberry_delete_rows {path="/tmp/store.xml"} 1
